@@ -1,4 +1,4 @@
-# Equipo
+# Windows
 Repositorio en Equipo
 
 hola
