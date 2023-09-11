@@ -1,3 +1,4 @@
+# VERSIONES ICONICAS 
 
 - Windows 1.0 (1985): Esta fue la primera versión de Windows lanzada por Microsoft. Introdujo una interfaz gráfica de usuario (GUI) que permitía a los usuarios realizar tareas básicas utilizando ventanas, iconos y un ratón.
 
@@ -18,3 +19,9 @@
 - Windows 8 (2012): Windows 8 presentó una interfaz de usuario radicalmente diferente con "Metro" (más tarde conocida como Modern UI). Fue diseñado para ser compatible con dispositivos táctiles y tabletas.
 
 - Windows 10 (2015): Windows 10 reintrodujo el menú de Inicio en lugar del menú Metro de Windows 8 y combinó características familiares con nuevas innovaciones. Fue la última versión principal de Windows, ya que Microsoft adoptó un modelo de servicio continuo.
+
+
+
+
+
+Bibliografia: https://www.timetoast.com/timelines/versiones-mas-importantes-de-windows

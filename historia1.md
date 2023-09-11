@@ -58,4 +58,9 @@
 
 - Septiembre de 2014: Minecraft se une a Microsoft. 
 
-Enero de 2015: Microsoft revela su nueva versión de sistema operativo, Windows 10
+- Enero de 2015: Microsoft revela su nueva versión de sistema operativo, Windows 10
+
+
+
+
+Bibliografia: https://news.microsoft.com/es-es/2015/04/06/historia-microsoft-40-aniversario/
